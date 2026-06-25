@@ -2,8 +2,6 @@
 
 A Corsi-block sequence-recall task extended with **continuous mouse-trajectory analysis**. The classic paradigm scores only whether you clicked the right circles in the right order. This version keeps that discrete score but also records the full cursor path between clicks and analyses it using cross-correlation — the same signal-processing approach used in modern continuous psychophysics. The result is a richer picture of how memory actually guides movement.
 
-![Trial results screenshot — add your own](docs/results_example.png)
-
 ---
 
 ## Why Two Scores?
