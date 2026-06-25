@@ -97,7 +97,7 @@ Normalised correlation curves for the X and Y axes, with `ρ_max`, `τ_peak`, an
 Requires Python 3.9+.
 
 ```bash
-git clone https://github.com/<your-username>/continuous-psychophysics-memory-tracker.git
+git clone https://github.com/SidKris1234/continuous-psychophysics-memory-tracker.git
 cd continuous-psychophysics-memory-tracker
 pip install -r requirements.txt
 python continuous_memory_test.py
